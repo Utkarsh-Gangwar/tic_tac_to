@@ -21,7 +21,7 @@ def match():
     elif b3==b4 and b4==b5 and b3!=' ':
         result(b3+'  wins!!')
     elif b6==b7 and b7==b8 and b6!=' ':
-        result(b4+'  wins!!')
+        result(b6+'  wins!!')
     elif b0==b3 and b3==b6 and b0!=' ':
         result(b0+'  wins!!')
     elif b1==b4 and b4==b7 and b1!=' ':
